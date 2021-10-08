@@ -1,2 +1,4 @@
 # gameforrebecca
-Game to ask my girlfriend to be my girlfriend (it worked :p)
+A game I created for my girlfriend in 1 day to ask her if she wants to be my girlfriend.
+
+Created using 16x16 industrial tileset. Dont look at the code, its pretty horrible. 
